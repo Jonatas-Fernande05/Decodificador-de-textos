@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codificador de Texto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="encoder">
+            <h1>Codificador de Texto</h1>
+            <form id="encoderForm">
+                <label for="textInput">Texto:</label>
+                <textarea id="textInput" rows="4" placeholder="Digite o texto aqui..."></textarea>
+                
+                <label for="shiftInput">Deslocamento:</label>
+                <input type="number" id="shiftInput" value="3" min="1" max="25">
+                
+                <button type="submit">Codificar</button>
+                
+                <label for="resultOutput">Resultado:</label>
+                <textarea id="resultOutput" rows="4" readonly></textarea>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

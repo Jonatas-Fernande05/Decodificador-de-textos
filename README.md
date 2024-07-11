@@ -4,7 +4,8 @@
 
 Este projeto é um **Codificador de Texto** baseado na **Cifra de César**, uma técnica clássica de criptografia. O codificador permite que os usuários insiram um texto, definam um deslocamento (número de posições para frente ou para trás no alfabeto), e obtenham uma versão codificada do texto de acordo com a cifra de César. A aplicação apresenta uma interface amigável com um fundo de imagem, tornando o processo de codificação simples e visualmente atraente.
 
-![Screenshot](https://via.placeholder.com/800x400?text=Screenshot+of+the+App)
+![Screenshot](![Captura de tela_11-7-2024_132834_127 0 0 1](https://github.com/Jonatas-Fernande05/Decodificador-de-textos/assets/166061461/0b2bab8b-ca91-4358-9f99-7bf27fd05028)
+)
 
 ## Funcionalidades
 
